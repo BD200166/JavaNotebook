@@ -1,6 +1,6 @@
 
 public class ClassCat extends ClassAnimal { //Keyword "extends" provides the extension (legacy) of another class | ClassCat is a ChildClass/SubClass of ClassAnimal
-    /*	
+    	/*	
 	private String name;
 	private int age;
 		
