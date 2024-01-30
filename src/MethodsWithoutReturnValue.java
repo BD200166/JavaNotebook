@@ -9,7 +9,7 @@ public class MethodsWithoutReturnValue {
 		
 	}
 	
-	public static void doSomething(int number1, int number2) {		//Keyword "void" = no return value
+	public static void doSomething(int number1, int number2) {	//Keyword "void" = no return value
 		int x = number1;
 		int y = number2;
 		int result = x + y;
