@@ -3,8 +3,8 @@ public class SwitchCaseQuery {
 
 	public static void main(String[] args) {
 		
-      //int number = 2;															//Control structure -> control the program flow
-																				//Code block is executed based on constants
+      //int number = 2;										//Control structure -> control the program flow
+												//Code block is executed based on constants
 		//switch(number) {
 		//  case 1: System.out.println("Number hat den Wert 1"); break;
 		//  case 2: System.out.println("Number hat den Wert 2"); break;
